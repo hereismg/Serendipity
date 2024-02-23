@@ -1,0 +1,1 @@
+say my_datapack

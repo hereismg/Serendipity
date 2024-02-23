@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{Tags:["model_area_block"], display:{Name: '{"text":"模型工具","color":"withe" ,"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}'}}

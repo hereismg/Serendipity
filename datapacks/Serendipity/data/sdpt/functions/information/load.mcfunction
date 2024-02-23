@@ -1,0 +1,1 @@
+function sdpt:information/get_selected_block/load

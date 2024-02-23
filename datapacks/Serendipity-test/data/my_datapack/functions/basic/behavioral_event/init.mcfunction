@@ -1,0 +1,1 @@
+scoreboard objectives add basic-behavior_even-is_used-carrot_on_a_stick minecraft.used:minecraft.carrot_on_a_stick "基础模块-行为事件-是否使用了胡萝卜钓竿"

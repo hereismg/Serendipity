@@ -1,0 +1,22 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:iron_ingot",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "color": "#FF0000",
+                                "translate": "item.ex.red_force_of_fire"
+                              }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

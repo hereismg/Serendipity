@@ -1,0 +1,2 @@
+scoreboard objectives remove sdpt-event_system-used_carrot_on_a_stick
+scoreboard objectives remove sdpt-event_system-used_snowball
