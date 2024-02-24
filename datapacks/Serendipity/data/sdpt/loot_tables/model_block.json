@@ -1,0 +1,26 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:carrot_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "color": "#FF0000",
+                                "translate": "item.sdpt.model_block"
+                              }
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{id:'item.sdpt.model_block'}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

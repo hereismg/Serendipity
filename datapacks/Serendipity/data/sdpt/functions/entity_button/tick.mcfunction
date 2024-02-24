@@ -1,0 +1,1 @@
+execute as @e[tag=entity.sdpt.entity_button] at @s 
