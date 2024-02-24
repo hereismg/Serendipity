@@ -1,0 +1,1 @@
+tag @e[type=minecraft:block_display,distance=..4] add sdpt.animation.click
