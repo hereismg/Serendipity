@@ -1,2 +1,2 @@
-scoreboard objectives add sdpt-event_system-used_carrot_on_a_stick minecraft.used:minecraft.carrot_on_a_stick
-scoreboard objectives add sdpt-event_system-used_snowball minecraft.used:minecraft.snowball
+scoreboard objectives add sdpt.event_system.used_carrot_on_a_stick minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add sdpt.event_system.used_snowball minecraft.used:minecraft.snowball
