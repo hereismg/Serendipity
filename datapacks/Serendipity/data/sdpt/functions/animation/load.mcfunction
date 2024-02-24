@@ -1,0 +1,1 @@
+scoreboard objectives add sdpt.animation.timer dummy
